@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/workout-timmer-react/static/css/main.98da1142.css",
+    "main.js": "/workout-timmer-react/static/js/main.c943802c.js",
+    "static/media/ClickSound.m4a": "/workout-timmer-react/static/media/ClickSound.f7e8f889fedabc8d298c.m4a",
+    "index.html": "/workout-timmer-react/index.html",
+    "main.98da1142.css.map": "/workout-timmer-react/static/css/main.98da1142.css.map",
+    "main.c943802c.js.map": "/workout-timmer-react/static/js/main.c943802c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98da1142.css",
+    "static/js/main.c943802c.js"
+  ]
+}
